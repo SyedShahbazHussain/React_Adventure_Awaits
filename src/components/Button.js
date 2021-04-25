@@ -25,7 +25,6 @@ export const Button =({
             >
                 {children}
             </button>
-            <Button>GET Stated</Button>
         </Link>
     )
 }
